@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-- Python 3.9
+- Python 3.8 or higher
 
 ### Installation
 
@@ -23,7 +23,7 @@
    ```bash
    [AZURE_OPENAI]
    AZURE_OPENAI_API_VERSION = "XXXXXXXXX"
-   AZURE_OPENAI_ENDPOINT="XXXXXXXXX/"
+   AZURE_OPENAI_ENDPOINT="XXXXXXXXX"
    AZURE_OPENAI_APIKEY="XXXXXXXXX" 
    DEPLOYMENT_NAME = "XXXXXXXXX"
    ```
