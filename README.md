@@ -1,6 +1,11 @@
 # StreamlitChatbot
 ![image](https://github.com/wytan12/StreamlitChatbot/assets/102575826/6a8ffccc-54f3-41e5-b2d1-27bdf3d84fee)
 
+## Why Streamlit?
+- Ease of Use: Highlight how Streamlit's straightforward syntax and powerful built-in functions allow developers to build interactive UIs quickly without the need for complex web development skills.
+- Real-Time Update: Streamlit ensures the chatbot interface updates instantly as users interact, providing a seamless, dynamic conversation experience.
+- Interactive Widgets: Streamlit includes easy-to-integrate widgets such as text inputs and buttons, enhancing user engagement and interactivity in chatbots.
+
 ## Getting Started
 
 ### Prerequisites
@@ -35,5 +40,5 @@ Run the app.py file using the Streamlit CLI:
    streamlit run app.py
    ```
 ## Reference
-https://docs.streamlit.io/develop/api-reference 
+https://docs.streamlit.io/develop/api-reference <br>
 https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/ 
