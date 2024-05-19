@@ -1,5 +1,5 @@
 # StreamlitChatbot
-![image](https://github.com/wytan12/StreamlitChatbot/assets/102575826/6a8ffccc-54f3-41e5-b2d1-27bdf3d84fee)
+![image](https://github.com/wytan12/StreamlitChatbot/assets/102575826/db904e3b-c90a-4667-aeae-b35cd39bb7ce)
 
 ## Why Streamlit?
 - Ease of Use: Highlight how Streamlit's straightforward syntax and powerful built-in functions allow developers to build interactive UIs quickly without the need for complex web development skills.
