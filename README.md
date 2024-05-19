@@ -39,6 +39,7 @@ Run the app.py file using the Streamlit CLI:
    ```bash
    streamlit run app.py
    ```
-## Reference
-https://docs.streamlit.io/develop/api-reference <br>
-https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/ 
+## References
+- [Streamlit Documentation](https://docs.streamlit.io/develop/api-reference)
+- [Streamlit Emoji Shortcodes](https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/)
+
