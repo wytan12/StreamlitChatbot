@@ -1,4 +1,5 @@
 # StreamlitChatbot
+![image](https://github.com/wytan12/StreamlitChatbot/assets/102575826/6a8ffccc-54f3-41e5-b2d1-27bdf3d84fee)
 
 ## Getting Started
 
