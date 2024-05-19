@@ -5,8 +5,6 @@ st.title(":books: AskNarelle")
 
 with st.sidebar:
     st.header("Profile")
-    # st.subheader("This is a subheader")
-    # st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
     gender = st.radio(
         label = "Gender",
         options = ("Male", "Female")
@@ -15,8 +13,6 @@ with st.sidebar:
         st.header("Welcome Guys :boy:")
     else:
         st.header("Welcome Girls :girl:")
-
-
 
 # Initialize session state
 if "messages" not in st.session_state:
@@ -56,3 +52,5 @@ if prompt:
 
 
 
+    # st.subheader("This is a subheader")
+    # st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
