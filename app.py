@@ -4,10 +4,10 @@ from langchain_openai import AzureChatOpenAI
 
 ## Initialize LLM using AzureChatOpenAI
 llm = AzureChatOpenAI(
-    openai_api_version=st.secrets["AZURE_OPENAI"]["AZURE_OPENAI_API_VERSION"],
-    azure_endpoint=st.secrets["AZURE_OPENAI"]["AZURE_OPENAI_ENDPOINT"],
-    api_key=st.secrets["AZURE_OPENAI"]["AZURE_OPENAI_APIKEY"],
-    azure_deployment=st.secrets["AZURE_OPENAI"]["DEPLOYMENT_NAME"],
+    openai_api_version=st.secrets["AZURE_OPENAI_API_VERSION"],
+    azure_endpoint=st.secrets["AZURE_OPENAI_ENDPOINT"],
+    api_key=st.secrets["AZURE_OPENAI_APIKEY"],
+    azure_deployment=st.secrets["DEPLOYMENT_NAME"],
     temperature=1
 )
 
